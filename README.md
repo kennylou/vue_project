@@ -1,4 +1,4 @@
-# testmyprojectvue
+# vue_project
 
 > test my-project build vue project
 
