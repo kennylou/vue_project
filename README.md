@@ -1,6 +1,6 @@
 # vue_project
 
-> test my-project build vue project
+> use my-project build vue project and include some plugins;
 
 ## Build Setup
 
